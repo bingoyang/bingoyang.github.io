@@ -5,5 +5,5 @@ published: true
 ---
 
 
-![]({{site.baseurl}}/http://images.51cto.com/files/uploadimg/20110831/0914290.png)
+![scala]({{site.baseurl}}/http://images.51cto.com/files/uploadimg/20110831/0914290.png)
 **未完待续**
