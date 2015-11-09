@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+
+## **为了一个人守在一个城**
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+**被世界遗忘的角落里，有你想要的...**
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yangliubinga@163.com](mailto:yangliubinga@163.com)
