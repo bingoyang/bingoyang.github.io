@@ -35,11 +35,9 @@ footer-links:
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
-analytics :
-  provider : custom
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
-
+baidu_analytics: //hm.baidu.com/hm.js?a2d091343a9663828d3aa7cd8caaecbe
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url:
