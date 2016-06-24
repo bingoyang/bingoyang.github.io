@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: 黑白世界黑白人
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  creditlink: http://heibai.ren
 comments: false
-modified: 2016-02-01
+modified: 2016-06-24
 ---
 
 They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
@@ -26,7 +26,5 @@ If you've used any of [my other themes](http://mademistakes.com/work/jekyll-them
 * [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
 * [Custom 404 page]({{ site.url }}/404.html) to get you started.
 * [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
 
 [^1]: Example: *domain.com/category-name/post-title*

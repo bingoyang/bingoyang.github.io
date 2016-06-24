@@ -1,6 +1,6 @@
 title:            黑&白
 description:      黑白世界黑白人
-disqus_shortname: 
+disqus_shortname: Colorful dream
 #reading_time:     true
 words_per_minute: 2
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -11,8 +11,8 @@ baseurl: ''
 # Owner/author information
 owner:
   name:           bingoyang
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  avatar:         avatar-1.jpg
+  bio:            "写代码预防老年痴呆！！！"
   email:          yangliubinga@163.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
